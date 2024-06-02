@@ -1,0 +1,2 @@
+# kodlama
+ilk deneyim
